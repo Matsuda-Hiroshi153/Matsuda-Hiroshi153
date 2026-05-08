@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Mastuda Hiroshi
 
-### Senior Full Stack Engineer | Backend Architect | Problem Solver
+### Senior Full Stack Engineer | Experienced AI Developer | Master's Degree in Computer Science
 
 > Building scalable systems, elegant APIs, and production-grade applications for 10+ years.
 
