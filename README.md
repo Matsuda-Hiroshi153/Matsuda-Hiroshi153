@@ -177,9 +177,3 @@ I'm always interested in:
 * Startup collaborations
 * Long-term product development
 * High-impact backend architecture work
-
-### Contact
-
-* GitHub: [https://github.com/yourusername](https://github.com/yourusername)
-* LinkedIn: [https://linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)
-* Por
