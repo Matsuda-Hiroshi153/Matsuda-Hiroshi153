@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Alex Kim
+# Hi there 👋 I'm Mastuda Hiroshi
 
 ### Senior Full Stack Engineer | Backend Architect | Problem Solver
 
@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate Full Stack Engineer with over **10 years of experience** designing, developing, and scaling modern web applications.
+I'm a passionate Full Stack Engineer with over **10+ years of experience** designing, developing, and scaling modern web applications.
 
 My strongest expertise lies in:
 
