@@ -1,179 +1,109 @@
-# Hi there 👋 I'm Mastuda Hiroshi
+# Hi, I'm Matsuda Hiroshi
 
-### Senior Full Stack Engineer | Experienced AI Developer | Master's Degree in Computer Science
+### Senior Backend Engineer | AI Systems Builder | M.S. in Computer Science
 
-> Building scalable systems, elegant APIs, and production-grade applications for 10+ years.
+I design and ship reliable backend platforms and AI-enabled products that hold up in production.
 
----
-
-## 🚀 About Me
-
-I'm a passionate Full Stack Engineer with over **10+ years of experience** designing, developing, and scaling modern web applications.
-
-My strongest expertise lies in:
-
-* Backend Engineering
-* System Architecture
-* API Design
-* Distributed Systems
-* Performance Optimization
-* Algorithms & Problem Solving
-* Cloud Infrastructure
-* Scalable SaaS Platforms
-
-While I naturally enjoy backend development and architecture the most, I also build polished, high-performance frontend applications with modern frameworks and excellent user experience.
-
-I believe great software is not just about writing code — it's about building systems that are maintainable, scalable, secure, and enjoyable to use.
+With 10+ years of engineering experience, I focus on architecture, performance, and delivery quality across the full lifecycle: design, implementation, deployment, and operations.
 
 ---
 
-# 🧠 Core Expertise
+## Tech Stack
 
-## Backend Technologies
+### Core Technologies
 
-* Node.js
-* Express.js
-* NestJS
-* Django
-* FastAPI
-* Flask
-* Laravel
-* Spring Boot
-* ASP.NET Core
-* GraphQL
-* RESTful APIs
-* Microservices Architecture
-* WebSockets
-* gRPC
+[![Tech Stack Icons](https://skillicons.dev/icons?i=mongodb,express,react,nodejs,django,ts,python,java,postgres,mysql,redis,elasticsearch,docker,kubernetes,aws,terraform,nginx,linux,githubactions&perline=9)](https://skillicons.dev)
 
-## Frontend Technologies
+### Backend and AI Focus
 
-* React.js
-* Next.js
-* Vue.js
-* TypeScript
-* Redux / Zustand
-* Tailwind CSS
-* Material UI
-* Responsive Design
-* Performance Optimization
-
-## Databases
-
-* PostgreSQL
-* MongoDB
-* MySQL
-* Redis
-* Elasticsearch
-* Firebase
-
-## DevOps & Cloud
-
-* AWS
-* Docker
-* Kubernetes
-* Nginx
-* GitHub Actions
-* CI/CD Pipelines
-* Terraform
-* Linux Server Administration
+![API First](https://img.shields.io/badge/API-REST%20%7C%20GraphQL%20%7C%20gRPC-0A66C2?style=for-the-badge&logo=fastapi&logoColor=white)
+![MERN Stack](https://img.shields.io/badge/Stack-MERN-3C873A?style=for-the-badge&logo=mongodb&logoColor=white)
+![Django](https://img.shields.io/badge/Backend-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![AI Engineering](https://img.shields.io/badge/AI-LLM%20Integration%20%7C%20RAG-6A1B9A?style=for-the-badge&logo=openai&logoColor=white)
+![Cloud Native](https://img.shields.io/badge/Cloud-AWS%20%7C%20Docker%20%7C%20Kubernetes-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![DevOps](https://img.shields.io/badge/DevOps-CI%2FCD%20%7C%20IaC%20%7C%20Observability-FF6F00?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ---
 
-# ⚡ Preferred Stack
+## What I Do Best
 
-## MERN Stack Specialist
-
-I specialize heavily in the **MERN ecosystem** and have built:
-
-* Enterprise SaaS platforms
-* Real-time applications
-* High-traffic APIs
-* AI-integrated products
-* FinTech dashboards
-* E-commerce systems
-* Automation platforms
-* Developer tools
-
-### Favorite Technologies
-
-```txt
-MongoDB + Express + React + Node.js
-TypeScript + Next.js + PostgreSQL + AWS
-```
+- Design scalable backend systems and service-oriented architectures
+- Build secure, maintainable REST/GraphQL/gRPC APIs
+- Lead performance tuning at API, database, and infrastructure layers
+- Deliver AI features from prototype to production-ready services
+- Drive engineering execution with strong testing, observability, and CI/CD practices
 
 ---
 
-# 🏗️ Engineering Philosophy
+## Backend & Platform Expertise
 
-I focus on writing:
+### Core Backend
 
-* Clean architecture
-* Scalable backend systems
-* Maintainable codebases
-* Secure APIs
-* High-performance applications
-* Reliable infrastructure
+- Node.js (Express, NestJS)
+- Python (FastAPI, Django, Flask)
+- Java (Spring Boot)
+- Event-driven and microservice architectures
+- Real-time systems (WebSockets, pub/sub, async jobs)
 
-I enjoy solving complex engineering challenges including:
+### Data & Storage
 
-* System scalability
-* Database optimization
-* Concurrency
-* API performance
-* Distributed systems
-* Large-scale architecture
-* Algorithmic optimization
+- PostgreSQL, MySQL, MongoDB
+- Redis (caching, queues, rate limiting)
+- Elasticsearch
+- Data modeling, indexing strategy, query optimization, and migration planning
 
----
+### Cloud & DevOps
 
-# 📈 Experience Highlights
-
-✅ 10+ years of professional development experience
-✅ Built scalable applications serving thousands of users
-✅ Led full product development from idea to production
-✅ Architected enterprise-level backend systems
-✅ Developed complex REST & GraphQL APIs
-✅ Improved application performance and scalability
-✅ Experience working with startups and remote teams
-✅ Strong understanding of software engineering best practices
+- AWS, Docker, Kubernetes
+- Terraform and infrastructure as code
+- Nginx, Linux operations, and production hardening
+- GitHub Actions and robust CI/CD pipelines
+- Monitoring, logging, alerting, and incident response workflows
 
 ---
 
-# 💼 What I Can Help With
+## Applied AI Experience
 
-* Full Stack Web Development
-* Backend Architecture
-* API Development
-* SaaS Platforms
-* Cloud Infrastructure
-* Database Design
-* Performance Optimization
-* Technical Leadership
-* Code Review & Mentorship
-* AI-integrated Applications
+I build AI-integrated applications with a backend-first approach:
+
+- LLM-powered product features exposed through stable APIs
+- Retrieval and context pipelines for domain-specific assistants
+- AI service orchestration, caching, and cost/performance controls
+- Guardrails, evaluation loops, and reliability-focused rollout strategies
+- Integration of AI capabilities into existing SaaS and enterprise workflows
 
 ---
 
-# 🧩 Current Focus
+## Engineering Principles
 
-Currently focused on:
-
-* Scalable backend systems
-* AI-powered applications
-* Cloud-native architecture
-* High-performance APIs
-* Advanced TypeScript ecosystems
-* Distributed systems engineering
+- **Production-first:** every feature is designed for reliability, observability, and maintainability.
+- **Performance matters:** latency, throughput, and cost are treated as first-class requirements.
+- **Simple scales:** choose clear designs that teams can operate and evolve over time.
+- **Security by default:** safe auth, permission boundaries, and data protection are non-negotiable.
 
 ---
 
-# 📫 Let's Connect
+## Selected Impact
 
-I'm always interested in:
+- Architected and launched backend services supporting high-traffic workloads
+- Built API platforms used by web, mobile, and partner integrations
+- Improved system performance through query, caching, and concurrency optimizations
+- Led end-to-end delivery of SaaS and AI-enabled features from concept to production
+- Collaborated effectively across startups, distributed teams, and fast release cycles
 
-* Challenging engineering problems
-* Remote opportunities
-* Startup collaborations
-* Long-term product development
-* High-impact backend architecture work
+---
+
+## Current Focus
+
+- Backend architecture for AI-native products
+- High-performance API and data-platform engineering
+- Cloud-native system reliability and scalability
+- Practical AI adoption with measurable product outcomes
+
+---
+
+## Open To
+
+- Senior backend and platform engineering roles
+- AI/backend integration projects
+- Architecture consulting and technical leadership engagements
